@@ -1,0 +1,20 @@
+.home {
+    display: inline-block;
+    font-family: andale mono, monospace;
+}
+
+.HomeText {
+    position: relative;
+    text-align: center;
+}
+
+.HomeText h1{
+    font-size: 2vw;
+    float: left;
+}
+
+.HomeText p { 
+    font-size: 1vw;
+    float: left;
+    width: 50%;
+}
