@@ -1,7 +1,7 @@
 import "./App.css";
 import React from "react";
 import Tabs from "./Tabs/Tabs";
-import headshot from "./Images/headshot.jpeg";
+import headshot from "./Assets/headshot.jpeg";
 import { TypeAnimation } from 'react-type-animation';
 
 
