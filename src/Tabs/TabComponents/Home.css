@@ -49,8 +49,8 @@
 
 .skills {
     position: relative;
-    top: 200px;
-    left: -400px;
+    top: 10em;
+    left: -22em;
     text-align: center;
 }
 
@@ -64,8 +64,21 @@
     column-count: 3;
     column-gap: 80px;
     font-size: 1.2em;
+    
+    background-color: #fff;
+    padding: 1.125em 1.5em;
+    font-size: 1.1em;
+    border-radius: 1rem;
+    box-shadow: 0 0.125rem 0.5rem rgba(0, 0, 0, .3), 0 0.0625rem 0.125rem rgba(0, 0, 0, .2);
 }
+
+.skills ul li {
+    background-color: #fff;
+}
+
+
 .skills ul li::before {
+    background-color: #fff;
     content: "";
     background-image: url("../../Assets/circle.gif");
     background-size: contain;
