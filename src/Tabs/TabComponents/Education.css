@@ -3,18 +3,18 @@
     text-align: center;
 }
 
-.left {
+.leftSec {
     width: 50%;
     height: 550px;
     float:left;
     background-image: url("../../Assets/purdue.png");
     background-repeat: no-repeat;
-    background-size: 600px 500px;
-    background-position-y: 200%;
+    background-size: 40vw auto;
+    background-position-y: 7vw;
     background-position-x: center;
 }
 
-.left h1 {
+.leftSec h1 {
     margin-top: 4rem;
     max-width: 100%;
     text-transform: uppercase;
@@ -33,7 +33,7 @@
     -webkit-text-fill-color: transparent;
     animation: textclip 2s linear infinite;
     display: inline-block;
-        font-size: 3rem;
+        font-size: 3vw;
 }
 
 @keyframes textclip {
@@ -42,16 +42,16 @@
   }
 }
 
-.left h2 {
+.leftSec h2 {
     margin-top: 2rem;
     color: black;
 }
-.left h3 {
+.leftSec h3 {
     margin-top: 2rem;
     color: black;
 }
 
-.left p { 
+.leftSec p { 
     margin-top: 2rem;
     margin-left: 1rem;
     margin-right: 1rem;
@@ -61,15 +61,27 @@
     background-color: #ffd90079;
     color: black;
 }
+
+.leftSec ul {
+    list-style-type: none;
+}
+
+.leftSec li::before {
+    content: "•"; 
+    color: black;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em
+}
   
-.right {
+.rightSec {
     width:50%; 
     height: 550px;
     float:left;
     color: black;
 }
 
-.right h1 {
+.rightSec h1 {
     margin-top: 4rem;
     max-width: 100%;
     text-transform: uppercase;
@@ -88,18 +100,18 @@
     -webkit-text-fill-color: transparent;
     animation: textclip 2s linear infinite;
     display: inline-block;
-        font-size: 3rem;
+        font-size: 3vw;
 }
 
-.right h2 {
+.rightSec h2 {
     margin-top: 2rem;
 }
 
-.right h3 {
+.rightSec h3 {
     margin-top: 2rem;
 }
 
-.right p{
+.rightSec p{
     margin-top: 1rem;
 }
 

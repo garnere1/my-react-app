@@ -5,18 +5,22 @@ import aws from "../../Assets/aws.png";
 const Education = () => {
   return (
     <div className="Education">
-      <div class="left">
+      <div class="leftSec">
           <h1>Purdue University</h1>
           <h2>2018-2022</h2>
           <h3>Bachelor of Science in Computer Engineering</h3>
-          <p>Course topics include: Advanced C programming, 
-            Python for data science, Data structures in C, 
-            Microprocessor systems and interfaces, Computer graphics, 
-            Object oriented programming in C++ and Java, 
-            Computer communication networks</p>
+          <p>Course topics include: 
+            <ul>
+              <li>Advanced C programming</li>
+              <li>Data structures in C</li>
+              <li>Microprocessor systems and interfaces</li>
+              <li>Computer graphics</li>
+              <li>Object oriented programming in C++ and Java</li>
+              <li>Computer communication networks</li>
+            </ul></p>
       </div>
 
-      <div class="right">
+      <div class="rightSec">
           <h1>Certifications</h1>
           <p>*Click badges to view them on Credly*</p>
           <h2>AWS:</h2>

@@ -44,7 +44,7 @@
 ul.nav {
   width: 60%;
   height: auto;
-  margin: 0 auto 2rem;
+  margin: 0 auto 2vw;
   display: flex;
   align-items: center;
   justify-content: space-between;
