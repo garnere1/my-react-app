@@ -69,6 +69,10 @@ p.txt {
   margin-top: 2%;
 }
 
+.Experience ul {
+  margin: 0;
+  padding: 0;
+}
 /* (E) EVENT "SPEECH BUBBLE CALLOUT" */
 /* (E1) SHARED */
 div.alt-event::before, div.alt-event.right::before {

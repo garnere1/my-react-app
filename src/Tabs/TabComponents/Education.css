@@ -10,7 +10,7 @@
     background-image: url("../../Assets/purdue.png");
     background-repeat: no-repeat;
     background-size: 40vw auto;
-    background-position-y: 7vw;
+    background-position-y: 15vw;
     background-position-x: center;
 }
 
@@ -117,4 +117,9 @@
 
 .awsccp p {
     margin-top: 1rem;
+}
+
+.awsccp img{
+    width: 30%;
+    height: auto;
 }
