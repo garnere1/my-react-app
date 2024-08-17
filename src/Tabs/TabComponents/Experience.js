@@ -5,14 +5,24 @@ const Experience = () => {
   return (
     <div className="Experience">
       <div class="alt-vtl">
+        <div class="alt-event right">
+          <p class="date">Mar. 2023 - Present</p>
+          <p class="comp">OPENLANE</p>
+          <p class="pos">System Engineer - AI</p>
+          <p class="txt"><ul>
+            <li>Led the development of an informational AI Chatbot utilizing RAG implementation</li>
+            <li>Assisted in the automation of services utilizing API's</li>
+            <li>Acted as the AI technical knowledge expert within multiple lines of business</li>
+          </ul></p>
+        </div>
         <div class="alt-event">
-          <p class="date">Aug. 2022 - Present</p>
+          <p class="date">Aug. 2022 - Mar. 2023</p>
           <p class="comp">Accenture</p>
           <p class="pos">AI Software Engineer - Python</p>
           <p class="txt"><ul>
-            <li>Served on a development team as a full-stack engineer for a conversational AI utilizing new AI technologies</li>
-            <li>Led a team of four developers through system integration and application architecture decisions</li>
-            <li>Contributed to technical documentation and the development of web applications and API’s</li>
+            <li>Served on a development team as a full-stack engineer for a conversational RAG AI applying standard debugging and documentation practices</li>
+            <li>Led a team of four developers through application architecture decisions and constructing an ETL data pipeline utilizing extraction strategies</li>
+            <li>Contributed to the development of web applications and API’s leveraging Python frameworks and AWS services</li>
           </ul></p>
         </div>
         <div class="alt-event right">

@@ -17,15 +17,15 @@ const Projects = () => {
         </li>
         <li>
           <h2>02</h2>
-          <h3>MongoDB Database Manipulator</h3>
+          <h3>Custom Chatbot Generator</h3>
           <p>
-            Program that creates and edits a repository of food that the user may have in their home. 
-            This program is able to retrieve queries and add existing items to the database based on user input.
+          This Flask application will generate a chatbot for the user depending on the specifications and data that they put in. 
+          The custom chatbot utilizes RAG (retrieval augmented generation) to use the users uploaded files as knowedge for the chtatbot.
             <br></br>
             <br></br>
-            Skills used: Javascript, Node.js, MongoDB
+            Skills used: Python, Flask, Langchain, Vector DB, OpenAI API, AI
           </p>
-          <a href="https://github.com/garnere1/mongo.git" target = "_blank" rel="noreferrer noopener"><button>View on Github</button></a>
+          <a href="https://github.com/garnere1/CustomChatbot" target = "_blank" rel="noreferrer noopener"><button>View on Github</button></a>
         </li>
         <li>
           <h2>03</h2>
