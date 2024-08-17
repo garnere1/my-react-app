@@ -26,16 +26,20 @@ const Home = () => {
             <li>React.js</li>
             <li>SQL</li>
             <li>MATLAB</li>
-            <li>OpenGL</li>
+            <li>Langchain</li>
             <li>HTML</li>
             <li>CSS</li>
-            <li>Microsoft Products</li>
+            <li>OpenAI</li>
             <li>MongoDB</li>
             <li>AWS</li>
             <li>Agile Methodology</li>
-            <li>Oracle CPQ</li>
-            <li>Business Requirements Analysis</li>
-            <li>Test Execution and Management</li>
+            <li>Hugging Face</li>
+            <li>Tensorflow</li>
+            <li>Pytorch</li>
+            <li>Git</li>
+            <li>Azure</li>
+            <li>GCP</li>
+            <li>Docker</li>
           </ul>
         </div>
       </div>

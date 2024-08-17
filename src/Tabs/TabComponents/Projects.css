@@ -69,7 +69,7 @@
 	
 }
 .tilesWrap li:hover button {
-	transform: translateY(2vw);
+	transform: translateY(1vw);
 	opacity: 1;
 }
 .tilesWrap li button:hover {
@@ -98,7 +98,7 @@
 .tilesWrap li:after {
 	content: '';
 	position: absolute;
-	width: 40%;
+	width: 10%;
 	height: 100%;
 	left: 0;
 	top: 0;

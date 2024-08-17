@@ -8,11 +8,11 @@ const Experience = () => {
         <div class="alt-event">
           <p class="date">Aug. 2022 - Present</p>
           <p class="comp">Accenture</p>
-          <p class="pos">Technology Architecture Delivery Analyst</p>
+          <p class="pos">AI Software Engineer - Python</p>
           <p class="txt"><ul>
-            <li>Executed system integration testing (SIT) and user acceptance testing (UAT)</li>
-            <li>Contributed to technical documentation and the development of incoming technologies such as A.I.</li>
-            <li>Trained in agile methodologies, data analysis, and devOps processes</li>
+            <li>Served on a development team as a full-stack engineer for a conversational AI utilizing new AI technologies</li>
+            <li>Led a team of four developers through system integration and application architecture decisions</li>
+            <li>Contributed to technical documentation and the development of web applications and API’s</li>
           </ul></p>
         </div>
         <div class="alt-event right">

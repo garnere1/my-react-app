@@ -41,11 +41,14 @@ const Projects = () => {
         </li>
         <li>
           <h2>04</h2>
-          <h3>Senior Design Project</h3>
+          <h3>iOS React Native Fitness App</h3>
           <p>
-            Collaborated with a team of 3 other students to create a "Kuerig" type drink machine. 
-            
+          This app was created using react native and AWS to help fitness enthusiasts track, log, and graph their lifts over time.
+          <br></br>
+          <br></br>
+          Skills used: AWS, React Native, JavaScript
           </p>
+          <a href="https://github.com/garnere1/fitnessApp" target = "_blank" rel="noreferrer noopener"><button>View on Github</button></a>
         </li>
       </ul>
     </div>
