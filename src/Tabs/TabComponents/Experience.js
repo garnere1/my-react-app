@@ -6,7 +6,7 @@ const Experience = () => {
     <div className="Experience">
       <div class="alt-vtl">
         <div class="alt-event right">
-          <p class="date">Mar. 2023 - Present</p>
+          <p class="date">Mar. 2024 - Present</p>
           <p class="comp">OPENLANE</p>
           <p class="pos">System Engineer - AI</p>
           <p class="txt"><ul>
@@ -16,7 +16,7 @@ const Experience = () => {
           </ul></p>
         </div>
         <div class="alt-event">
-          <p class="date">Aug. 2022 - Mar. 2023</p>
+          <p class="date">Aug. 2022 - Mar. 2024</p>
           <p class="comp">Accenture</p>
           <p class="pos">AI Software Engineer - Python</p>
           <p class="txt"><ul>
